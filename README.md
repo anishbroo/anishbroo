@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript, Quality Assurance**
+- 💬 Ask me about **JavaScript, React and Quality Assurance**
 
 - 📫 How to reach me **maharjan.anish71@gmail.com**
 
